@@ -8,4 +8,7 @@ La base de données est composée de quatre tables principales : les véhicules,
 
 Le projet est organisé en plusieurs quêtes progressives. Nous avons commencé par des requêtes simples avec SELECT et WHERE, puis nous avons travaillé sur les tris, les jointures entre tables et les fonctions d’agrégation comme COUNT et AVG. Enfin, nous avons réalisé des requêtes plus complètes pour répondre à des cas concrets liés à l’activité de l’entreprise.
 
+Nos difficultés rencontrées sont la compréhension du logiciel pgadmin.
+Concernant les facilités, le SQL est un langage simple à prendre en main et à comprendre.
+
 Ce projet nous a permis de mieux comprendre la logique du SQL, la structure d’une base de données et l’importance de savoir expliquer et justifier ses requêtes.
