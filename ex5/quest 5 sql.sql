@@ -5,7 +5,7 @@ ORDER BY autonomie_km DESC
 LIMIT 3;
 --affichage des 3 véhicules les plus autonomes et qui sont dispo--
 
-SELECT locatlisation, COUNT(*) AS nb_dispo
+SELECT localisation, COUNT(*) AS nb_dispo
 FROM vehicule 
 WHERE etat = 'Disponible'
 GROUP BY localisation 
